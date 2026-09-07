@@ -1,0 +1,178 @@
+[
+  {
+    "id": "p01",
+    "name": "Casque Nova ANC",
+    "description": "Casque circum-aural à réduction de bruit active, 40 h d'autonomie et coussinets mémoire de forme. Idéal pour les trajets et le télétravail.",
+    "price": 249.90,
+    "category": "Audio",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/1.webp",
+    "rating": 4.7,
+    "reviewCount": 1284,
+    "inStock": true
+  },
+  {
+    "id": "p02",
+    "name": "Écouteurs Pulse Mini",
+    "description": "True wireless compacts, encodage AAC, étanchéité IPX4 et boîtier de charge USB-C. Contrôles tactiles pour appels et musique.",
+    "price": 89.00,
+    "category": "Audio",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/2.webp",
+    "rating": 4.4,
+    "reviewCount": 642,
+    "inStock": true
+  },
+  {
+    "id": "p03",
+    "name": "Montre Drift Sport",
+    "description": "Montre connectée GPS, suivi cardio 24/7, plus de 80 modes sportifs et écran AMOLED toujours allumé. Autonomie jusqu'à 10 jours.",
+    "price": 199.00,
+    "category": "Wearables",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/1.webp",
+    "rating": 4.5,
+    "reviewCount": 903,
+    "inStock": true
+  },
+  {
+    "id": "p04",
+    "name": "Bracelet Horizon Leather",
+    "description": "Bracelet cuir pleine fleur, boucle acier brossé, compatible avec Drift Sport. Finition artisanale, plusieurs tailles.",
+    "price": 49.90,
+    "category": "Wearables",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/womens-watches/rolex-cellini-moonphase/1.webp",
+    "rating": 4.2,
+    "reviewCount": 211,
+    "inStock": true
+  },
+  {
+    "id": "p05",
+    "name": "Lampe Halo Desk",
+    "description": "Lampe de bureau LED à température de couleur ajustable, port USB et mode concentration. Bras articulé silencieux.",
+    "price": 79.50,
+    "category": "Maison",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/1.webp",
+    "rating": 4.6,
+    "reviewCount": 355,
+    "inStock": true
+  },
+  {
+    "id": "p06",
+    "name": "Diffuseur Brume+",
+    "description": "Diffuseur ultrasonique 300 ml, 7 ambiances lumineuses et arrêt automatique. Compatible huiles essentielles.",
+    "price": 39.90,
+    "category": "Maison",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/1.webp",
+    "rating": 4.3,
+    "reviewCount": 478,
+    "inStock": true
+  },
+  {
+    "id": "p07",
+    "name": "Notebook Arc 14",
+    "description": "Ultrabook 14\" 2.8K, 16 Go RAM, SSD 512 Go, clavier rétroéclairé. Châssis aluminium 1,3 kg pour la mobilité.",
+    "price": 1299.00,
+    "category": "Informatique",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/1.webp",
+    "rating": 4.8,
+    "reviewCount": 512,
+    "inStock": true
+  },
+  {
+    "id": "p08",
+    "name": "Tablette InkNote",
+    "description": "Tablette 11\" 120 Hz, stylet magnétique inclus, split-screen et clavier optionnel. Parfaite pour la prise de notes.",
+    "price": 459.00,
+    "category": "Informatique",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/1.webp",
+    "rating": 4.5,
+    "reviewCount": 287,
+    "inStock": false
+  },
+  {
+    "id": "p09",
+    "name": "Souris Vertex Silent",
+    "description": "Souris sans fil silencieuse, capteur 4000 DPI, 3 profils mémorisés et autonomie 2 mois. USB-C.",
+    "price": 34.90,
+    "category": "Accessoires",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/mobile-accessories/self-ie-stick-tripod/1.webp",
+    "rating": 4.1,
+    "reviewCount": 190,
+    "inStock": true
+  },
+  {
+    "id": "p10",
+    "name": "Clavier Fold Travel",
+    "description": "Clavier Bluetooth pliable, touches scissor, compatible iOS / Android / Windows. Étui de transport inclus.",
+    "price": 59.00,
+    "category": "Accessoires",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/mobile-accessories/tv-studio-camera-pedestal/1.webp",
+    "rating": 4.0,
+    "reviewCount": 124,
+    "inStock": true
+  },
+  {
+    "id": "p11",
+    "name": "Enceinte Orbit 360",
+    "description": "Enceinte Bluetooth 360°, 24 h d'autonomie, IP67 et poignée intégrée. Son stéréo jumelable.",
+    "price": 129.00,
+    "category": "Audio",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/1.webp",
+    "rating": 4.6,
+    "reviewCount": 731,
+    "inStock": true
+  },
+  {
+    "id": "p12",
+    "name": "Chargeur GaN 65W",
+    "description": "Chargeur compact GaN 3 ports (2x USB-C, 1x USB-A), Power Delivery 65 W. Idéal pour laptop et téléphone.",
+    "price": 44.90,
+    "category": "Accessoires",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/1.webp",
+    "rating": 4.7,
+    "reviewCount": 1502,
+    "inStock": true
+  },
+  {
+    "id": "p13",
+    "name": "Lunettes Shade Polar",
+    "description": "Lunettes polarisées, monture acétate, protection UV400. Étui rigide et chiffon microfibre.",
+    "price": 69.00,
+    "category": "Mode",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/1.webp",
+    "rating": 4.4,
+    "reviewCount": 266,
+    "inStock": true
+  },
+  {
+    "id": "p14",
+    "name": "Sneakers Apex Run",
+    "description": "Chaussures running semelle responsive, mesh respirant et drop 8 mm. Pour l'entraînement quotidien.",
+    "price": 119.00,
+    "category": "Mode",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp",
+    "rating": 4.5,
+    "reviewCount": 844,
+    "inStock": true
+  },
+  {
+    "id": "p15",
+    "name": "Sac Weekender Canvas",
+    "description": "Sac 40 L en canvas ciré, compartiment laptop 15\", bandoulière amovible. Voyage court ou bureau.",
+    "price": 89.00,
+    "category": "Mode",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/tops/blue-frock/1.webp",
+    "rating": 4.3,
+    "reviewCount": 173,
+    "inStock": true
+  },
+  {
+    "id": "p16",
+    "name": "Cafetière Aero Pour",
+    "description": "Cafetière filtre 1,2 L, verseuse verre, minuterie et maintien au chaud. Panier amovible lave-vaisselle.",
+    "price": 64.50,
+    "category": "Maison",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/1.webp",
+    "rating": 4.2,
+    "reviewCount": 398,
+    "inStock": true
+  }
+]
